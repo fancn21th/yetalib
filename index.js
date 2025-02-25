@@ -1,3 +1,3 @@
 module.exports = {
-  hi: "hello",
+  hi: "hello from yetalib v1.0.1",
 };
